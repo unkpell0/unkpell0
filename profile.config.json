@@ -1,69 +1,69 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Marvelino Husca",
+    "username": "unkpell0",
+    "headline": "IT Student & AI Automation Developer",
+    "affiliation": "Politeknik Negeri Malang",
+    "location": "Malang, Indonesia",
+    "status": "Building AI-powered automation tools",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "IT student focused on building real, working systems - from RAG chatbots to automation pipelines, not just coursework.",
+      "Prior experience in React, PHP/Laravel, and AI automation tooling through freelance and internship work."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "AI automation & RAG chatbot",
+    "direction": "Ship production-ready AI tools",
+    "themes": "Web Dev / AI Automation / Chatbot",
+    "narrative": "Learning by shipping - every project is built to be demoable, not just gradeable."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "AI Automation",
+      "description": "Designing RAG pipelines and automation workflows using tools like Langflow and n8n."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Web Development",
+      "description": "Building with React, PHP/Laravel, and modern JS tooling."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Chatbot Development",
+      "description": "Building retrieval-augmented chatbots with anti-fabrication safeguards and multi-turn memory."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "name": "Onboarding Buddy",
+      "url": "https://github.com/unkpell0/onboarding-buddy-live",
+      "homepage": "https://onboarding-buddy-live.vercel.app/",
+      "focus": "RAG-based HR onboarding chatbot",
+      "summary": "A two-stage RAG chatbot that answers new-hire questions from HR policy documents, with anti-fabrication safeguards and multi-turn memory.",
+      "heroLabel": "Onboarding Buddy"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "React",
+    "PHP",
+    "Laravel",
+    "Langflow",
+    "n8n",
+    "JavaScript"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "unkpell0",
+      "url": "https://github.com/unkpell0",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Portfolio",
+      "value": "Visit",
+      "url": "https://marvel.is-a.dev",
+      "logo": "",
+      "color": "F59E0B"
     }
   ],
   "activity": {
@@ -71,7 +71,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "solar"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Learning by shipping — every project is built to be demoable, not just gradeable."
 }
