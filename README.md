@@ -45,7 +45,12 @@ Learning by shipping - every project is built to be demoable, not just gradeable
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Aug 25, 2026: pushed 1 commit to [unkpell0/unkpell0](https://github.com/unkpell0/unkpell0).
+- Aug 25, 2026: created a branch in [unkpell0/unkpell0](https://github.com/unkpell0/unkpell0).
+- Aug 22, 2026: pushed 1 commit to [unkpell0/unkpell0.github.io](https://github.com/unkpell0/unkpell0.github.io).
+- Aug 22, 2026: merged pull request [#48142](https://github.com/is-a-dev/register) in [is-a-dev/register](https://github.com/is-a-dev/register).
+- Aug 21, 2026: created a branch in [unkpell0/onboarding-buddy-live](https://github.com/unkpell0/onboarding-buddy-live).
+- Aug 20, 2026: pushed 1 commit to [unkpell0/register](https://github.com/unkpell0/register).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
