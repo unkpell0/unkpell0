@@ -45,12 +45,12 @@ Learning by shipping - every project is built to be demoable, not just gradeable
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 22, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
+- Sep 21, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 - Sep 21, 2026: pushed 1 commit to [unkpell0/web-master](https://github.com/unkpell0/web-master).
 - Sep 19, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 - Sep 14, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 - Sep 14, 2026: pushed 1 commit to [unkpell0/web-master](https://github.com/unkpell0/web-master).
-- Sep 11, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
-- Sep 9, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
