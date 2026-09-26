@@ -45,12 +45,12 @@ Learning by shipping - every project is built to be demoable, not just gradeable
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 25, 2026: pushed 1 commit to [unkpell0/kuisPBO1](https://github.com/unkpell0/kuisPBO1).
+- Sep 25, 2026: created a branch in [unkpell0/kuisPBO1](https://github.com/unkpell0/kuisPBO1).
 - Sep 24, 2026: created a branch in [unkpell0/Project-Based-Learning---SkillBridge](https://github.com/unkpell0/Project-Based-Learning---SkillBridge).
 - Sep 24, 2026: pushed 1 commit to [unkpell0/Project-Based-Learning---SkillBridge](https://github.com/unkpell0/Project-Based-Learning---SkillBridge).
 - Sep 22, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 - Sep 21, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
-- Sep 21, 2026: pushed 1 commit to [unkpell0/web-master](https://github.com/unkpell0/web-master).
-- Sep 19, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
