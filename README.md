@@ -45,12 +45,12 @@ Learning by shipping - every project is built to be demoable, not just gradeable
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 16, 2026: pushed 1 commit to [unkpell0/UTSPBO](https://github.com/unkpell0/UTSPBO).
+- Oct 16, 2026: created a branch in [unkpell0/UTSPBO](https://github.com/unkpell0/UTSPBO).
 - Oct 12, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 - Oct 12, 2026: pushed 1 commit to [unkpell0/web-master](https://github.com/unkpell0/web-master).
 - Oct 9, 2026: pushed 1 commit to [unkpell0/NeMart](https://github.com/unkpell0/NeMart).
 - Oct 9, 2026: created a branch in [unkpell0/NeMart](https://github.com/unkpell0/NeMart).
-- Oct 5, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
-- Oct 1, 2026: pushed 1 commit to [unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB](https://github.com/unkpell0/KULIAH-DASAR-PEMROGRAMAN-WEB).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
