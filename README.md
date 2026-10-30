@@ -45,12 +45,12 @@ Learning by shipping - every project is built to be demoable, not just gradeable
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Oct 27, 2026: pushed 1 commit to [unkpell0/ne-mart-prototype](https://github.com/unkpell0/ne-mart-prototype).
 - Oct 28, 2026: pushed 1 commit to [unkpell0/ne-mart-prototype](https://github.com/unkpell0/ne-mart-prototype).
+- Oct 28, 2026: created a branch in [unkpell0/ne-mart-prototype](https://github.com/unkpell0/ne-mart-prototype).
+- Oct 28, 2026: created a branch in [unkpell0/ne-mart](https://github.com/unkpell0/ne-mart).
+- Oct 27, 2026: pushed 1 commit to [unkpell0/ne-mart-prototype](https://github.com/unkpell0/ne-mart-prototype).
 - Oct 27, 2026: created a branch in [unkpell0/ne-mart-prototype](https://github.com/unkpell0/ne-mart-prototype).
 - Oct 28, 2026: merged pull request [#1](https://github.com/unkpell0/ne-mart-prototype) in [unkpell0/ne-mart-prototype](https://github.com/unkpell0/ne-mart-prototype).
-- Oct 28, 2026: opened pull request [#1](https://github.com/unkpell0/ne-mart-prototype) in [unkpell0/ne-mart-prototype](https://github.com/unkpell0/ne-mart-prototype).
-- Oct 22, 2026: created a branch in [HaikalMaghsin/SkillBridge](https://github.com/HaikalMaghsin/SkillBridge).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
